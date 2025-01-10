@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Endless Car Racing Game</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Endless Car Racing Game</h1>
+        <p>Race through endless roads and avoid traffic with a single tap!</p>
+    </header>
+
+    <section id="main-action">
+        <h2>Get Started</h2>
+        <p>Click or tap below to play the game or download it:</p>
+        <div id="button-container">
+            <a href="gameplay_demo.mp4" id="play-button" class="action-button">Play Now</a>
+            <a href="download/windows_version.exe" id="download-button" class="action-button">Download Game</a>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Endless Car Racing Game</p>
+    </footer>
+</body>
+</html>
